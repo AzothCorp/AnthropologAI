@@ -8,7 +8,7 @@ This is a simple chatbot that uses the Anthropic AI API to generate responses. I
 
 ## Installation
 
-First, clone this repository to your local machine using `git clone https://github.com/<your-github-username>/anthropic-chatbot.git`.
+First, clone this repository to your local machine using `git clone https://github.com/AzothCorp/AnthropologAI.git`.
 
 Then, navigate to the project directory and install the necessary dependencies using `pip install -r requirements.txt`.
 
