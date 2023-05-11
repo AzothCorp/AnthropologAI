@@ -1,0 +1,11 @@
+# Python
+__pycache__
+*.py[cod]
+*.pyo
+*.pyd
+
+# Directories
+__pycache__
+
+# Files
+.DS_Store
