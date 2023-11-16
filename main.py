@@ -49,7 +49,7 @@ def chat_with_ai(user_question, api_key, model):
 model_options = ["claude-v1", "claude-v1-100k", "claude-v1.0", "claude-v1.2", "claude-v1.3", "claude-v1.3-100k", "claude-instant-v1", "claude-instant-v1-100k", "claude-instant-v1.0", "claude-instant-v1.1", "claude-instant-v1.1-100k"]
 
 iface = gr.Interface(fn=chat_with_ai, 
-                     inputs=["text", "text", gr.inputs.Dropdown(model_options)], 
+                     inputs=["text", "text", gr.Dropdown(model_options)], 
                      outputs="text",
                      layout="vertical")
 iface.launch()
