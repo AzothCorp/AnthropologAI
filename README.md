@@ -22,3 +22,5 @@ This will launch a Gradio interface in your web browser where you can interact w
 
 This project is licensed under the terms of the MIT license.
 By Leric Dax (LAK), Mnemosyne Labs, and Azoth Corp (2023).
+
+## Notes: add other stuff asap and clean up
